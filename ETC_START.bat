@@ -1,0 +1,1 @@
+nbminer -a etchash -o stratum+tcp://kz.emcd.network:3333 -u 0x7a15a504715398b636ae0786C828fa07988cE95e_thearikyt.worker -fan 100
